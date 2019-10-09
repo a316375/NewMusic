@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">趣味樂譜</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">邀请码</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">输入你的邀请码</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">提交</string>
+    <string name="action_sign_out">返回</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">格式错误</string>
+    <string name="error_field_required">输入内容为空</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
